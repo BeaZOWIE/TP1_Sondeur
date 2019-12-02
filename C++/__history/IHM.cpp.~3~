@@ -1,16 +1,9 @@
-//*********************************************************************************************
-//* Programme : TP_Sondeur_GPS.cpp date : 18/11/2019
-//*---------------------------------------------------------------------------------------------------------
-//* dernière mise a jour : 02/12/2019
-//*
-//*Programmeurs : Fontaine Thibaud/Cosman Vincent/ Jouen Matthias
-//*classe : BTSSN2
-//*--------------------------------------------------------------------------------------------------------
-//* BUT :  Ce programme permet de recpuerer des trames envoyées par un GPS et de les
-//* traiter afin d'en tirer des informations sur nottament des coordonnées,
-//* une température et une profondeur...
-//*Programmes associés : AUCUN
-//*********************************************************************************************
+/*
+  Ce programme permet de recpuerer des trames envoyées par un GPS et de les
+  traiter afin d'en tirer des informations sur nottament des coordonnées,
+  une température et une profondeur...
+*/
+
 //---------------------------------------------------------------------------
 
 #include <vcl.h>
